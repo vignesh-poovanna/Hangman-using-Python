@@ -13,6 +13,9 @@ This repository contains my first Python project: a command-line implementation 
 - Provides feedback on correct and incorrect guesses  
 - Clear win/lose messages at the end of the game  
 
+## Libraries Used
+- `random` (Python standard library)  
+
 ## Getting Started
 ### Requirements
 - Python 3.7 or higher  
@@ -47,7 +50,7 @@ Attempts remaining: 11
 ## Learning Outcomes
 Through building this project, I practiced:  
 - Python basics such as loops, lists, and conditionals  
-- Using the random module  
+- Using the `random` module  
 - Handling user input and providing dynamic feedback  
 
 ## Future Improvements
