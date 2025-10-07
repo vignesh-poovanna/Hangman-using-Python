@@ -54,7 +54,8 @@ Through building this project, I practiced:
 - Handling user input and providing dynamic feedback  
 
 ## Future Improvements
-- Add ASCII art for the Hangman figure  
+- Add ASCII art for the Hangman figure
+- develop an interactive frontend 
 - Implement scoring and multiple rounds  
 - Expand the word bank or allow custom words from the player  
 
